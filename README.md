@@ -13,7 +13,7 @@ I then clean through this data by placing it in a dataframe and applying cleanin
   * Rather than scrolling through each article and reading them, users can quickly identify important information and assess its    usefulness, trustworthiness, and other valences 
 * Generate an organized data format for news article data that can be manipulated to analyze for useful features
 
-I chose this project to give Fantasy Football players two useful features, a hot-text representation of article info and a sentiment analysis as secondary information on that article. Thus players are aware of the important keywords and whether they should pay attention to them.
+I chose this project to target Fantasy Football players and demonstrate the applliability of data science to diverse mediums. My code generates two useful features, a hot-text representation of article info and a sentiment analysis on that article. Thus players are aware of the important keywords and whether they should pay attention to them based on their subjectivity and emotionality score.
 
 ## Future Steps
 A next step could be to evaluate articles for names, and emotionality, and streaming that data to help Fantasy football players decide how to adjust their lineups based off negative news and keywords such as names, injuries, duration of injury, expected return dates, etc. 
