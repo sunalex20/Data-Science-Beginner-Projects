@@ -2,7 +2,7 @@
 My first showcase repository- these are some of the first projects I've created!
 
 ###about the code
-
+################################################################################
 The code in this project was borrowed from Alice Wong from the PyOhio demo @ https://www.youtube.com/watch?v=xvqsFTUsOmc&t=4763s
 This is my first time attempting a data science project, thus a lot of these steps were new to me, such as SciKitLearn, and wordcloud, etc. 
 
@@ -12,7 +12,7 @@ I then clean through this data by placing it in a dataframe and applying cleanin
 
 
 ###project goals and motivating factors
-
+################################################################################
 I chose this project to give Fantasy Football players two useful features, a hot-text representation of article info and a sentiment analysis as secondary information on that article. Thus players are aware of the important keywords and whether they should pay attention to them. 
 
 A next step could be to evaluate articles for names, and emotionality, and streaming that data to help Fantasy football players decide how to adjust their lineups based off negative news and keywords such as names, injuries, duration of injury, expected return dates, etc. 
