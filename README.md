@@ -9,10 +9,11 @@ I attempt to webscrape the NFL official news websites, searching through their n
 I then clean through this data by placing it in a dataframe and applying cleaning functions to prepare the text for NLP and sentiment analysis. I use wordcloud and follow Alice Wong's sentiment analysis frameworks to generate two visuals: one wordcloud of the top words in each article as a quick visual cue of streaming NFL events (such as injuries, names, quick facts), and the other a sentiment analysis with emotionality and subjectivity to gauge whether articles are biased and if which emotional valence they contain. 
 
 ## Motivations
-I chose this project to give Fantasy Football players two useful features, a hot-text representation of article info and a sentiment analysis as secondary information on that article. Thus players are aware of the important keywords and whether they should pay attention to them.
 * Give fantasy football players up-to-date rss streaming with additional useful features from official nfl website
   * Rather than scrolling through each article and reading them, users can quickly identify important information and assess its    usefulness, trustworthiness, and other valences 
 * Generate an organized data format for news article data that can be manipulated to analyze for useful features
+
+I chose this project to give Fantasy Football players two useful features, a hot-text representation of article info and a sentiment analysis as secondary information on that article. Thus players are aware of the important keywords and whether they should pay attention to them.
 
 ## Future Steps
 A next step could be to evaluate articles for names, and emotionality, and streaming that data to help Fantasy football players decide how to adjust their lineups based off negative news and keywords such as names, injuries, duration of injury, expected return dates, etc. 
